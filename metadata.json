@@ -1,0 +1,7 @@
+{
+  "name": "Jelita Sari Spa & Beauty",
+  "description": "A premium, high-class website for Jelita Sari Spa and Beauty center, featuring luxurious treatments, bridal packages, and expert aesthetic services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
